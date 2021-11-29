@@ -1,0 +1,10 @@
+
+
+- Bajar repositorio en gitlab y bajarselo con el clone.
+
+
+git clone https://github.com/Ima-Elite/sap.git
+
+git config --global user.name "Ima-Elite"
+
+git config --global user.email "ceti011@outlook.es"
