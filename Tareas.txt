@@ -1,12 +1,23 @@
 
-- Bajar repositorio en gitlab con el clone.
+- Sacar hojas del curso en el cuaderno y al cajón.
 
 
-git clone https://github.com/Ima-Elite/sap.git
+* The division 2:
 
-git config --global user.name "Ima-Elite"
+- video.
+https://www.youtube.com/watch?v=WbVxcUB8hk4
 
-git config --global user.email "ceti011@outlook.es"
+https://youtu.be/OaokmsHlF1I
 
+https://youtu.be/EtfTMoCx-aQ
 
-- Poner brida al cable del movil.
+- foro.
+https://www.3djuegos.com/foros/tema/50009060/0/se-me-cierra-el-juego/
+
+- otro.
+https://www.universothedivision.com/foro/threads/crasheo-del-juego.11800/
+
+-
+Fijate si está en modo de video DX12, si es así, pasalo a DX11. En DirecX 12 se cuelga mucho,
+ yo lo tuve que cambiar, no es muy gracioso estar al final de una incursión y que te pase eso,
+ lo digo por experiencia :(. 
