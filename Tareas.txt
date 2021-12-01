@@ -1,23 +1,12 @@
-
-- Sacar hojas del curso en el cuaderno y al cajón.
-
-
 * The division 2:
 
-- video.
-https://www.youtube.com/watch?v=WbVxcUB8hk4
+https://www.drivereasy.com/knowledge/solved-the-division-2-crash-quickly-easily/
 
-https://youtu.be/OaokmsHlF1I
 
-https://youtu.be/EtfTMoCx-aQ
+- Actualizar grafica:
 
-- foro.
-https://www.3djuegos.com/foros/tema/50009060/0/se-me-cierra-el-juego/
+https://www.drivereasy.com/kb/DriverEasy_Setup.exe
 
-- otro.
-https://www.universothedivision.com/foro/threads/crasheo-del-juego.11800/
+* Traer paraguas en mochila.
 
--
-Fijate si está en modo de video DX12, si es así, pasalo a DX11. En DirecX 12 se cuelga mucho,
- yo lo tuve que cambiar, no es muy gracioso estar al final de una incursión y que te pase eso,
- lo digo por experiencia :(. 
+* Chinchetas.
