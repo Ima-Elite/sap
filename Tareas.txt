@@ -1,3 +1,7 @@
 * Futuro video, foto del cementerio act1.
 
 * Traer enchufe a clase.
+
+* Cambiar Jersey.
+
+* Actualizar Diablo 2.
