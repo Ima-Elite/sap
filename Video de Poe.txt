@@ -1,0 +1,7 @@
+- Free to play, con opciones de micropago.
+
+- No hay mercenarios.
+
+- Las habilidades estan en joyas, no son inerentes a cada clase.
+
+- Todas las clases pueden hacer de todo en nivel alto.
