@@ -17,7 +17,7 @@ La Liga que siempre estará allí es la Standard (Estándar), es la experiencia 
 La Liga Standard contará con algunas mecánicas de pasadas Ligas, generalmente las más populares, pero generalmente será una experiencia vainilla (juego básico) para jugadores nuevos y antiguos.
 
 
-- Leagues (Ligas).
+* Leagues (Ligas).
 
 Las ligas en Path of Exile son servidores separados que cuentan con nuevas y diferentes mecánicas.
 
@@ -37,9 +37,7 @@ Las otras ligas son los modos Hardcore, Softcore, y Solo Self Found.
 - Solo Self Found: elimina la posibilidad de comerciar con otros jugadores. El comercio es vital para muchos jugadores en Path of Exile, por lo que solo se recomienda para jugadores experimentados.
 
 
-
 * Pantalla de selección de personajes:
-
 
 - Builds.
 
@@ -56,7 +54,6 @@ Una cosa a tener en cuenta aquí es el Scion. Esta es una clase especial que se 
 Por lo tanto, no verás esta clase cuando comiences el juego por primera vez.
 
 
-
 - Árbol de Habilidades.
 
 El componente más importante de jugar POE es el árbol de habilidades. 
@@ -68,7 +65,6 @@ En cuanto a qué build elegir, los jugadores más nuevos querrán elegir uno que
 No te preocupes demasiado por no tener el mejor equipo o suficiente dinero como nuevo jugador. 
 
 Debes enfocarte en encontrar builds que pienses que son divertidos de jugar. Al final, si el juego te gusta, vas a crear muchísimos nuevos personajes.
-
 
 
 * El Stash (Alijo) e Inventario en POE.
@@ -126,7 +122,6 @@ Funcionan igual que los items mágicos, excepto que tienen como máximo seis afi
 - Los items únicos (marrón):
 
 Tienen las mismas estadísticas base que un item normal del mismo tipo, pero tienen nombres específicos, ilustraciones únicas y listas de modificadores en lugar de afijos. Si bien las tres rarezas anteriores son estrictamente mejores que la anterior (por ejemplo, los items raros son siempre más poderosos que los items mágicos), este no es el caso con los items únicos. Por lo general, proporcionan modificadores diferentes y particulares (a veces temáticamente agrupados) que no se pueden encontrar en otros items. Por lo tanto, se consideran más definidores de builds, otorgando efectos que se complementan bien con tu Habilidad Principal, pero en general otorgan estadísticas menos puras que los items raros.
-
 
 
 * Sockets y Links (Huecos y Enlances).
@@ -245,7 +240,7 @@ La mayoría de los builds alcanzan un "final" eficiente en el rango de nivel 80-
 
 * El Atlas y Mapeo.
 
-"Mapeo" se refiere al verdadero final de POE. Principalmente, esto implica usar el Map Device (Dispositivo de Mapas) en tu hideout (Base) para correr Mapas. 
+ - El "Mapeo" se refiere al verdadero final de POE. Principalmente, esto implica usar el Map Device (Dispositivo de Mapas) en tu hideout (Base) para correr Mapas. 
 
 Este dispositivo se puede obtener después de completar suficientes misiones de Zana para invitarla a tu base.
 
@@ -272,7 +267,6 @@ Estos poderes otorgan bonificaciones defensivas y están disponibles cuando los 
 Un jugador solo puede tener una potencia mayor y una menor activadas a la vez. 
 
 Los bonos se pueden cambiar sin costo adicional, siempre que el jugador esté en una ciudad y hable con Sin (Pecado).
-
 
 
 * Toda la esta información la he obtenido de esta fuente:
