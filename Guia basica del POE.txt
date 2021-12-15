@@ -1,7 +1,9 @@
 
-Buenas, os traigo una guia basica para recien iniciados en el fabuloso juego de Path of Exile, POE.
+Buenas a todos, os traigo una guia basica para recien iniciados en el fabuloso juego de Path of Exile, POE.
 
-Son los aspectos basicos de juego, el juego es mucho más complejo pero para empezar esta guia creo que os servira. 
+Son los aspectos basicos de juego. El juego es mucho más complejo pero para empezar esta guia creo que os servira. 
+
+Ahí va.
 
 
 * Lo Básico:
@@ -9,17 +11,16 @@ Son los aspectos basicos de juego, el juego es mucho más complejo pero para emp
 
 Cuando inicies Path of Exile por primera vez, serás recibido con la pantalla de selección de personaje. 
 
-Una vez que hagas clic en Crear, se te pedirá que elijas entre las tres Ligas activas en ese momento. 
+Una vez que hagas clic en Crear, se te pedirá que elijas entre una de las tres Ligas activas en ese momento. 
 
-La Liga que siempre estará allí es la Standard (Estándar), este es el Path of Exile predeterminado.
+La Liga que siempre estará allí es la Standard (Estándar), es la experiencia base de POE.
 
-Standard contará con algunas mecánicas de pasadas Ligas, generalmente las más populares, pero generalmente será una experiencia vainilla (juego básico) para jugadores nuevos y antiguos.
+La Liga Standard contará con algunas mecánicas de pasadas Ligas, generalmente las más populares, pero generalmente será una experiencia vainilla (juego básico) para jugadores nuevos y antiguos.
 
-- Leagues (Ligas).
+
+* Leagues (Ligas).
 
 Las ligas en Path of Exile son servidores separados que cuentan con nuevas y diferentes mecánicas.
-
-La experiencia base de POE es la liga Standard.
 
 Estas ligas tienen una duración aproximada de 3 meses y son llamadas Challenge Leagues. 
 
@@ -27,13 +28,15 @@ Estas introducen nuevas mecánicas al juego y se reinician al comienzo de cada n
 
 Al terminar, tus personajes creados en esta liga son pasados a la liga Standard.
 
-Los otros componentes principales de la selección de la ligas son los modos Hardcore, Softcore, y Solo Self Found.
 
-- Softcore es el modo normal por así decirlo.
+Las otras ligas son los modos Hardcore, Softcore, y Solo Self Found.
 
-- En el modo Hardcore solo tienes una vida por personaje. Cuando un personaje Hardcore muere, se mueven al servidor Standard Softcore y si quieres seguir jugando en Hardcore debes empezar otro nuevo personaje.
 
-- Solo Self Found elimina la posibilidad de comerciar con otros jugadores. El comercio es vital para muchos jugadores en Path of Exile, por lo que solo se recomienda para jugadores experimentados.
+- Softcore: es el modo normal por así decirlo.
+
+- En el modo Hardcore: solo tienes una vida por personaje. Cuando un personaje Hardcore muere, se mueven al servidor Standard Softcore y si quieres seguir jugando en Hardcore debes empezar otro nuevo personaje.
+
+- Solo Self Found: elimina la posibilidad de comerciar con otros jugadores. El comercio es vital para muchos jugadores en Path of Exile, por lo que solo se recomienda para jugadores experimentados.
 
 
 * Pantalla de selección de personajes:
@@ -48,83 +51,159 @@ Es solo que la clase que elijas determina tu punto de inicio en el árbol de hab
 
 Como tal, todas las clases se equilibran alrededor de ciertos arquetipos. 
 
-Los nuevos jugadores harían bien en empezar con las clases más populares como Marauder o Witch en su primer juego.
+Los nuevos jugadores harían bien en empezar con las clases más populares como Marauder (Guerrero) o Witch (Bruja) en su primer juego.
 
 Una cosa a tener en cuenta aquí es el Scion. Esta es una clase especial que se desbloquea una vez que la liberas en el Acto 3. Por lo tanto, no verás esta clase cuando comiences el juego por primera vez.
 
 
-El componente más importante de jugar POE es el árbol de habilidades. 
-
-Una build funciona o no funciona por las elecciones en el árbol de habilidades pasivas. Los bonos que ganes dependerán de la clase y el build general que estés buscando. Pero no te sientas intimidado por las miles de habilidades en el árbol. Hay una comunidad próspera en POE que publica guías para los jugadores más nuevos. Puede consultar las clases de POE y Builds en los foros o una pagina web especiales para obtener algunas ideas.
-
 
 - Árbol de Habilidades.
 
-En cuanto a qué build elegir, los jugadores más nuevos querrán elegir uno que encaje muy bien tanto con su elección de clase como con la meta actual. ¿Cuál es el meta actual? Bueno, "Meta" es el término que se utiliza con más frecuencia cuando se habla de builds y elementos mas populares del juego. Por ejemplo, los build de Energy Shield se usaban bastante hasta que GGG los nerfeo. Siguen siendo una buena opción, pero requieren un equipo un poco mejor para ser viables en el juego final.
+
+El componente más importante de jugar POE es el árbol de habilidades. 
+
+Una build funciona o no funciona por las elecciones en el árbol de habilidades pasivas.
+
+Los bonos que ganes dependerán de la clase y el build general que estés buscando. 
+
+En cuanto a qué build elegir, los jugadores más nuevos querrán elegir uno que encaje muy bien tanto con su elección de clase como con la meta actual. 
 
 En términos generales, los builds para nuevos jugadores deberían ser bastante simples en términos de mecánicas.
 
-No te preocupes demasiado por no tener el mejor equipo o suficiente dinero como nuevo jugador. Debes enfocarte en encontrar builds que pienses que son divertidos de jugar. Al final, si el juego te gusta, vas a crear muchísimos nuevos personajes.
-El Stash e Inventario en POE
+No te preocupes demasiado por no tener el mejor equipo o suficiente dinero como nuevo jugador. 
 
-Los Buils se centran en tres áreas principales. Buffs Ofensivos, Buffs defensivos y Core Skills (Habilidades Principales). Los Buffs ofensivos necesitarán trabajar en en conjunto con la Habilidad Principal de tu build. Por ejemplo, un build de Totem Warchief probablemente querrá que los Tótems manejen un tipo de daño elemental y bonificaciones del árbol de habilidades que aumenten el daño elemental, todo mientras reduce la cantidad de daño que el jugador toma al aumentar la vida del Tótem.
-
-Las habilidades de tu build están determinadas por las Gemas de Habilidades. Estas gemas se insertan en tu propio equipo y se pueden mejorar directamente mediante "Links" ("Enlaces") a Gemas de Habilidades Pasivas. Una vez más, debes centrarte en las Gemas de Habilidad que son cohesivas con tu elección de build. Por ejemplo, si estás usando una build basada en proyectiles, es posible que desees gemas que aumenten el número y el daño general de estos proyectiles.
+Debes enfocarte en encontrar builds que pienses que son divertidos de jugar. Al final, si el juego te gusta, vas a crear muchísimos nuevos personajes.
 
 
-Recuerda leer a fondo las estadísticas de los ítems y las descripciones de las habilidades de las Gemas y el árbol de habilidades. Algunas habilidades ofrecen bonificaciones aditivas planas al daño, mientras que otras aumentan el daño de forma multiplicativa. Siempre opte por multiplicar su daño cuando sea posible.
+- El Stash (Alijo) e Inventario en POE.
 
-Items
-Los items y equipo en POE son el alma de tu personaje. Los items que equipas y sus bonificaciones existen en una estructura por niveles. Todos los monstruos y la mayoría de los items vienen en una de cuatro rarezas diferentes. La rareza común es normal(BLANCOS), seguida de magicos (AZULES), raros (AMARILLOS) y únicos (MARRONES). Una mayor rareza significa que las cosas son más valoradas, pero ocurren con menos frecuencia en el juego.
 
-Los items normales (también llamados items base) son items básicos sin ningún modificador explícito agregado por afijos. Sin embargo, dependiendo del tipo base, algunos items pueden tener modificadores implícitos que se pueden volver a rerrolear.
-Item Normal
+Los Buils se centran en tres áreas principales. Buffs Ofensivos, Buffs defensivos y Core Skills (Habilidades Principales).
 
-Los items mágicos tienen las mismas estadísticas base que un elemento normal del mismo tipo, pero tienen modificadores mágicos dados por afijos, hasta un prefijo y un sufijo. Los tipos de modificadores que se pueden encontrar o agregar a un item dependen de su nivel.
-Item Mágico 
+Los Buffs ofensivos necesitarán trabajar en en conjunto con la Habilidad Principal de tu build. 
 
-Los items raros funcionan igual que los items mágicos, excepto que tienen como máximo seis afijos: tres prefijos y tres sufijos. Los items raros encontrados o los items raros creados con un Orb of Chance o un Orb of Alchemy siempre tendrán al menos 4 afijos, pero es posible obtener solo 2 o 3 al crearlos con una Regal Orb. Un item raro con menos de seis afijos puede ganar un afijo adicional con una Exalted Orb o mediante un Master Crafter. Las Chaos Orb vuelven a rerrolear por completo los afijos de un item raro.
-Item Raro
+Por ejemplo, un build de Totem Warchief probablemente querrá que los Tótems manejen un tipo de daño elemental y bonificaciones del árbol de habilidades que aumenten el daño elemental, todo mientras reduce la cantidad de daño que el jugador toma al aumentar la vida del Tótem.
 
-Los items únicos tienen las mismas estadísticas base que un item normal del mismo tipo, pero tienen nombres específicos, ilustraciones únicas y listas de modificadores en lugar de afijos. Si bien las tres rarezas anteriores son estrictamente mejores que la anterior (por ejemplo, los items raros son siempre más poderosos que los items mágicos), este no es el caso con los items únicos. Por lo general, proporcionan modificadores diferentes y particulares (a veces temáticamente agrupados) que no se pueden encontrar en otros items. Por lo tanto, se consideran más definidores de builds, otorgando efectos que se complementan bien con tu Habilidad Principal, pero en general otorgan estadísticas menos puras que los items raros.
+Las habilidades de tu build están determinadas por las Gemas de Habilidades. Estas gemas se insertan en tu propio equipo y se pueden mejorar directamente mediante "Links" ("Enlaces") a Gemas de Habilidades Pasivas.
+
+Una vez más, debes centrarte en las Gemas de Habilidad que son cohesivas con tu elección de build. Por ejemplo, si estás usando una build basada en proyectiles, es posible que desees gemas que aumenten el número y el daño general de estos proyectiles.
+
+
+Recuerda leer a fondo las estadísticas de los ítems y las descripciones de las habilidades de las Gemas y el árbol de habilidades. 
+
+Algunas habilidades ofrecen bonificaciones aditivas planas al daño, mientras que otras aumentan el daño de forma multiplicativa. 
+
+Siempre opte por multiplicar su daño cuando sea posible.
+
+
+* Items (Objetos).
+
+
+Los items y equipo en POE son el alma de tu personaje. 
+
+Los items que equipas y sus bonificaciones existen en una estructura por niveles. 
+
+Todos los monstruos y la mayoría de los items vienen en una de cuatro rarezas diferentes. 
+
+La rareza común es normal (BLANCOS), seguida de magicos (AZULES), raros (AMARILLOS) y únicos (MARRONES). 
+
+Una mayor rareza significa que las cosas son más valoradas, pero ocurren con menos frecuencia en el juego.
+
+- Los items normales (también llamados items base):
+
+Son items básicos sin ningún modificador explícito agregado por afijos. Sin embargo, dependiendo del tipo base, algunos items pueden tener modificadores implícitos que se pueden volver a rerrolear.
+Item Normal.
+
+- Los items mágicos:
+
+Tienen las mismas estadísticas base que un elemento normal del mismo tipo, pero tienen modificadores mágicos dados por afijos, hasta un prefijo y un sufijo. Los tipos de modificadores que se pueden encontrar o agregar a un item dependen de su nivel.
+Item Mágico.
+
+- Los items raros:
+
+Funcionan igual que los items mágicos, excepto que tienen como máximo seis afijos: tres prefijos y tres sufijos. Los items raros encontrados o los items raros creados con un Orb of Chance o un Orb of Alchemy siempre tendrán al menos 4 afijos, pero es posible obtener solo 2 o 3 al crearlos con una Regal Orb. Un item raro con menos de seis afijos puede ganar un afijo adicional con una Exalted Orb o mediante un Master Crafter. Las Chaos Orb vuelven a rerrolear por completo los afijos de un item raro.
+Item Raro.
+
+- Los items únicos:
+
+Tienen las mismas estadísticas base que un item normal del mismo tipo, pero tienen nombres específicos, ilustraciones únicas y listas de modificadores en lugar de afijos. Si bien las tres rarezas anteriores son estrictamente mejores que la anterior (por ejemplo, los items raros son siempre más poderosos que los items mágicos), este no es el caso con los items únicos. Por lo general, proporcionan modificadores diferentes y particulares (a veces temáticamente agrupados) que no se pueden encontrar en otros items. Por lo tanto, se consideran más definidores de builds, otorgando efectos que se complementan bien con tu Habilidad Principal, pero en general otorgan estadísticas menos puras que los items raros.
 Item Único
 
-Sockets y Links (Huecos y Enlances)
-Los items pueden tener desde un único Socket (hueco) hasta un máximo de seis. Con una combinación aleatoria de Links(enlaces). Puede ser bastante difícil o costoso encontrar un buen item para el final del juego. Los items de 6 sockets son los más valiosos, es decir, los items con seis sockets y que los 6 estén enlazados. Los sockets y los links del ítem se pueden hacer con el Crafting.
 
-Los Sockets permiten colocar Gemas de Habilidades Activas y de Soporte con un color coincidente al equipo. Los Sockets individuales se pueden enlazar entre sí, lo que se requiere para que las Gemas de Habilidades de Soporte proporcionen beneficios a cualquier Gema de Habilidad Activa enlazada.
-Izq: Item de 5 Sockets y 4 Links ¬ Der: Item de 6 Sockets y 6 Links
+* Sockets y Links (Huecos y Enlances).
 
-Cuanto mayor sea el nivel de una zona, mayor será el nivel de items básicos que caen en esa zona. Path of Exile utiliza tablas de drop masivas con probabilidades aleatorias de que dropeen diferentes rarezas de items. Generalmente, los enemigos débiles no mágicos o no raros solo dropean items blancos. Estos son la mayor parte de lo que verás en Path of Exile.
+Los items pueden tener desde un único Socket (hueco) hasta un máximo de seis. 
 
-Crafting
-Crafting es el proceso de usar tus orbes para modificar las propiedades, valores, sockets y links de un item. La elaboración de un item también se basa en el sistema de Hideout (tu Base). Los maestros que colocas en tu base te permiten desbloquear mesas de crafteo que modifican ciertos tipos de items con ciertos bonos a cambio de orbs. Consulta la página Wiki de dinero y familiarízate con los diversos artículos de artesanía.
+Con una combinación aleatoria de Links(enlaces). 
 
-Inventario
-El sistema de inventario primario en POE, además del inventario de tu personaje, es el Stash (Baúl). Este está dividido en pestañas. Cada pestaña es de 12 × 12, para un total de 144 espacios de cuadrícula. Por defecto empiezas con cuatro pestañas.
+Puede ser bastante difícil o costoso encontrar un buen item para el final del juego. 
 
-Los items del stash están separados por Liga, lo que significa que un personaje de la liga Stándar no puede acceder al stash de la liga Hardcore, y así respectivamente. Los jugadores comienzan con cuatro pestañas separadas en cada liga, incluidos eventos. El stash del jugador en cualquier liga permanente retendrá su contenido, incluso si no hay personajes en esa liga (por ejemplo, si tu único personaje de la liga hardcore muere, el contenido de su stash estará disponible de nuevo cuando se cree un nuevo personaje hardcore).
+Los items de 6 sockets son los más valiosos, es decir, los items con seis sockets y que los 6 estén enlazados. 
+
+Los sockets y los links del ítem se pueden hacer con el Crafting.
+
+
+- Los Sockets permiten colocar Gemas de Habilidades Activas y de Soporte con un color coincidente al equipo. 
+
+Los Sockets individuales se pueden enlazar entre sí, lo que se requiere para que las Gemas de Habilidades de Soporte proporcionen beneficios a cualquier Gema de Habilidad Activa enlazada.
+
+
+Cuanto mayor sea el nivel de una zona, mayor será el nivel de items básicos que caen en esa zona. 
+
+Path of Exile utiliza tablas de drop masivas con probabilidades aleatorias de que dropeen diferentes rarezas de items. 
+
+Generalmente, los enemigos débiles no mágicos o no raros solo dropean items blancos. 
+
+Estos son la mayor parte de lo que verás en Path of Exile.
+
+
+* Crafting.
+
+Crafting es el proceso de usar tus orbes para modificar las propiedades, valores, sockets y links de un item. 
+
+La elaboración de un item también se basa en el sistema de Hideout (tu Base). 
+
+Los maestros que colocas en tu base te permiten desbloquear mesas de crafteo que modifican ciertos tipos de items con ciertos bonos a cambio de orbs. 
+
+Consulta la página Wiki de dinero y familiarízate con los diversos artículos de artesanía.
+
+
+* Inventario.
+
+El sistema de inventario primario en POE, además del inventario de tu personaje, es el Stash (Baúl). 
+
+Por defecto empiezas con cuatro pestañas.
+
+Los items del stash están separados por Liga, lo que significa que un personaje de la liga Stándar no puede acceder al stash de la liga Hardcore, y así respectivamente.
 
 Ten en cuenta que cuando una liga finaliza, tus pestañas del stash de esa liga se van a fusionar con el stash de la liga Standard y van a ser pestañas temporales hasta que acomodes todas tus cosas.
 
-Todos los jugadores obtienen pestañas básicas que pueden usar para almacenar items, pero GGG vende varias pestañas premium que pueden permitirte usar nombres y colores personalizados en tus pestañas, así como también pestañas premium especiales para clasificar cosas como tarjetas de adivinación, orbs o esencias. Estas pestañas son de gran ayuda porque en una Liga, es posible que tengas cientos de items, orbs u otros drops.
 
-Economía
-La economía en Path of Exile es algo único en el sentido de que toda la moneda en el juego deriva del valor de su efecto. Por ejemplo, los items menos valiosos crean portales o identifican elementos, mientras que los más valiosos te permiten cambiar las propiedades de los items raros o duplicar items existentes.
 
-Mencionamos algunos de los diferentes tipos de moneda cuando hablamos de la rareza de los items, que generalmente entran en juego cuando se craftea. Para el comercio de items, POETrade facilita el cambio de moneda entre los tipos y para evaluar el valor relativo.
+* Economía.
 
-Subir de Nivel
-Levelear en POE es simple, incluso más de lo que solía ser. Ahora que las diversas dificultades se han eliminado y reemplazado con 10 Actos en lugar de las mismas cuatro en diferentes dificultades. El nuevo sistema de leveleo en POE difiere ligeramente del anterior en algunas formas clave.
+La economía en Path of Exile es algo único en el sentido de que toda la moneda en el juego deriva del valor de su efecto. 
 
-Anteriormente, el juego se dividía en tres dificultades que repetían los mismos cuatro actos. Y se agregaron varias penalidades a mayores dificultades. Las penalidades de resistencia en las dificultades Cruel y Merciless se han trasladado a la finalización del Acto 5 y la finalización del Acto 10, respectivamente. Una vez que se ha completado cualquiera de los dos actos, estas penalizaciones afectan a tu personaje en todas las áreas del juego.
+Por ejemplo, los items menos valiosos crean portales o identifican elementos, mientras que los más valiosos te permiten cambiar las propiedades de los items raros o duplicar items existentes.
+ 
 
-Al completar el Acto 5: -30% a todas las resistencias
-Al completar el Acto 10: -30% a todas las resistencias (-60% total)
+* Subir de Nivel.
 
-Existe una penalización de 5% de experiencia por muertes empezando desde el Acto 6 al 10 y en el laberinto en dificultad Cruel y Merciless. Hay una penalización de experiencia de 10% por muertes en áreas alcanzadas a través del dispositivo Map y el laberinto final. Estas reemplazan las viejas penalizaciones de experiencia Cruel y Merciless, y solo están activas en esas áreas específicas. Morir en cualquier área del Acto 5 (o inferior) no incurrirá en una penalización de experiencia. La experiencia promedio por monstruo también se ha reducido ligeramente en niveles altos. Por lo tanto, esto hace que levelear sea aún más desafiante.
+Levelear en POE es simple, incluso más de lo que solía ser. 
 
-Questing (Misiones)
+Ahora que las diversas dificultades se han eliminado y reemplazado con 10 Actos en lugar de las mismas cuatro en diferentes dificultades. 
+
+Al completar el Acto 5: -30% a todas las resistencias.
+
+Al completar el Acto 10: -30% a todas las resistencias (-60% total).
+
+Existe una penalización de 5% de experiencia por muertes empezando desde el Acto 6 al 10 y en el laberinto en dificultad Cruel y Merciless. 
+
+Por lo tanto, esto hace que levelear sea aún más desafiante.
+
+
+* Questing (Misiones).
+
 Hacer misiones es muy simple en POE. Al igual que en todos los juegos de rol, los NPC que dan las misiones tienen iconos perceptibles sobre sus cabezas; pero a diferencia de otros juegos, no todas las misiones necesitan ser activadas en un NPC para ser completadas. Simplemente al matar a los monstruos jefes en las diversas áreas suele ser suficiente para completar las misiones. A medida que juegas más POE, aprenderás qué misiones se pueden omitir por completo para acelerar subir de nivel. Ten en cuenta que algunas misiones tienen un impacto directo en tu build, como los Bandit Lords, por lo que estas son una obligación.
 
 Vendor Recipes (Recetas de Vendedor)
