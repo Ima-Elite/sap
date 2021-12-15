@@ -1,13 +1,12 @@
 
-Buenas a todos, os traigo una guia basica para recien iniciados en el fabuloso juego de Path of Exile, POE.
+Buenas a todos, os traigo una guia basica para los recien iniciados en el fabuloso juego de Path of Exile, POE.
 
-Son los aspectos basicos de juego. El juego es mucho más complejo pero para empezar esta guia creo que os servira. 
+Estos son los aspectos basicos de juego. El juego es mucho más complejo pero para empezar esta guia creo que os servirá. 
 
 Ahí va.
 
 
 * Lo Básico:
-
 
 Cuando inicies Path of Exile por primera vez, serás recibido con la pantalla de selección de personaje. 
 
@@ -18,7 +17,7 @@ La Liga que siempre estará allí es la Standard (Estándar), es la experiencia 
 La Liga Standard contará con algunas mecánicas de pasadas Ligas, generalmente las más populares, pero generalmente será una experiencia vainilla (juego básico) para jugadores nuevos y antiguos.
 
 
-* Leagues (Ligas).
+- Leagues (Ligas).
 
 Las ligas en Path of Exile son servidores separados que cuentan con nuevas y diferentes mecánicas.
 
@@ -31,7 +30,6 @@ Al terminar, tus personajes creados en esta liga son pasados a la liga Standard.
 
 Las otras ligas son los modos Hardcore, Softcore, y Solo Self Found.
 
-
 - Softcore: es el modo normal por así decirlo.
 
 - En el modo Hardcore: solo tienes una vida por personaje. Cuando un personaje Hardcore muere, se mueven al servidor Standard Softcore y si quieres seguir jugando en Hardcore debes empezar otro nuevo personaje.
@@ -39,11 +37,11 @@ Las otras ligas son los modos Hardcore, Softcore, y Solo Self Found.
 - Solo Self Found: elimina la posibilidad de comerciar con otros jugadores. El comercio es vital para muchos jugadores en Path of Exile, por lo que solo se recomienda para jugadores experimentados.
 
 
+
 * Pantalla de selección de personajes:
 
 
 - Builds.
-
 
 En cuanto a la selección de clases, depende de ti. Cualquier clase puede tomar teóricamente cualquier build. 
 
@@ -53,41 +51,38 @@ Como tal, todas las clases se equilibran alrededor de ciertos arquetipos.
 
 Los nuevos jugadores harían bien en empezar con las clases más populares como Marauder (Guerrero) o Witch (Bruja) en su primer juego.
 
-Una cosa a tener en cuenta aquí es el Scion. Esta es una clase especial que se desbloquea una vez que la liberas en el Acto 3. Por lo tanto, no verás esta clase cuando comiences el juego por primera vez.
+Una cosa a tener en cuenta aquí es el Scion. Esta es una clase especial que se desbloquea una vez que la liberas en el Acto 3.
+
+Por lo tanto, no verás esta clase cuando comiences el juego por primera vez.
 
 
 
 - Árbol de Habilidades.
 
-
 El componente más importante de jugar POE es el árbol de habilidades. 
-
-Una build funciona o no funciona por las elecciones en el árbol de habilidades pasivas.
 
 Los bonos que ganes dependerán de la clase y el build general que estés buscando. 
 
-En cuanto a qué build elegir, los jugadores más nuevos querrán elegir uno que encaje muy bien tanto con su elección de clase como con la meta actual. 
-
-En términos generales, los builds para nuevos jugadores deberían ser bastante simples en términos de mecánicas.
+En cuanto a qué build elegir, los jugadores más nuevos querrán elegir uno que encaje muy bien tanto con su elección de clase como con el meta actual. 
 
 No te preocupes demasiado por no tener el mejor equipo o suficiente dinero como nuevo jugador. 
 
 Debes enfocarte en encontrar builds que pienses que son divertidos de jugar. Al final, si el juego te gusta, vas a crear muchísimos nuevos personajes.
 
 
-- El Stash (Alijo) e Inventario en POE.
 
+* El Stash (Alijo) e Inventario en POE.
 
 Los Buils se centran en tres áreas principales. Buffs Ofensivos, Buffs defensivos y Core Skills (Habilidades Principales).
 
 Los Buffs ofensivos necesitarán trabajar en en conjunto con la Habilidad Principal de tu build. 
 
-Por ejemplo, un build de Totem Warchief probablemente querrá que los Tótems manejen un tipo de daño elemental y bonificaciones del árbol de habilidades que aumenten el daño elemental, todo mientras reduce la cantidad de daño que el jugador toma al aumentar la vida del Tótem.
-
-Las habilidades de tu build están determinadas por las Gemas de Habilidades. Estas gemas se insertan en tu propio equipo y se pueden mejorar directamente mediante "Links" ("Enlaces") a Gemas de Habilidades Pasivas.
+Estas gemas (Habilidades) se insertan en tu propio equipo y se pueden mejorar directamente mediante "Links" ("Enlaces") a Gemas de Habilidades Pasivas.
 
 Una vez más, debes centrarte en las Gemas de Habilidad que son cohesivas con tu elección de build. Por ejemplo, si estás usando una build basada en proyectiles, es posible que desees gemas que aumenten el número y el daño general de estos proyectiles.
 
+
+* Estadisticas de habilidades (Gemas).
 
 Recuerda leer a fondo las estadísticas de los ítems y las descripciones de las habilidades de las Gemas y el árbol de habilidades. 
 
@@ -97,7 +92,6 @@ Siempre opte por multiplicar su daño cuando sea posible.
 
 
 * Items (Objetos).
-
 
 Los items y equipo en POE son el alma de tu personaje. 
 
@@ -109,44 +103,49 @@ La rareza común es normal (BLANCOS), seguida de magicos (AZULES), raros (AMARIL
 
 Una mayor rareza significa que las cosas son más valoradas, pero ocurren con menos frecuencia en el juego.
 
-- Los items normales (también llamados items base):
 
-Son items básicos sin ningún modificador explícito agregado por afijos. Sin embargo, dependiendo del tipo base, algunos items pueden tener modificadores implícitos que se pueden volver a rerrolear.
-Item Normal.
+- Los items normales (blancos):
 
-- Los items mágicos:
+Son items básicos sin ningún modificador explícito agregado por afijos. 
 
-Tienen las mismas estadísticas base que un elemento normal del mismo tipo, pero tienen modificadores mágicos dados por afijos, hasta un prefijo y un sufijo. Los tipos de modificadores que se pueden encontrar o agregar a un item dependen de su nivel.
-Item Mágico.
+Sin embargo, dependiendo del tipo base, algunos items pueden tener modificadores implícitos que se pueden volver a rerrolear.
 
-- Los items raros:
+
+- Los items mágicos (azules):
+
+Tienen las mismas estadísticas base que un elemento normal del mismo tipo, pero tienen modificadores mágicos dados por afijos, hasta un prefijo y un sufijo. 
+
+Los tipos de modificadores que se pueden encontrar o agregar a un item dependen de su nivel.
+
+
+- Los items raros (amarillos):
 
 Funcionan igual que los items mágicos, excepto que tienen como máximo seis afijos: tres prefijos y tres sufijos. Los items raros encontrados o los items raros creados con un Orb of Chance o un Orb of Alchemy siempre tendrán al menos 4 afijos, pero es posible obtener solo 2 o 3 al crearlos con una Regal Orb. Un item raro con menos de seis afijos puede ganar un afijo adicional con una Exalted Orb o mediante un Master Crafter. Las Chaos Orb vuelven a rerrolear por completo los afijos de un item raro.
-Item Raro.
 
-- Los items únicos:
+
+- Los items únicos (marrón):
 
 Tienen las mismas estadísticas base que un item normal del mismo tipo, pero tienen nombres específicos, ilustraciones únicas y listas de modificadores en lugar de afijos. Si bien las tres rarezas anteriores son estrictamente mejores que la anterior (por ejemplo, los items raros son siempre más poderosos que los items mágicos), este no es el caso con los items únicos. Por lo general, proporcionan modificadores diferentes y particulares (a veces temáticamente agrupados) que no se pueden encontrar en otros items. Por lo tanto, se consideran más definidores de builds, otorgando efectos que se complementan bien con tu Habilidad Principal, pero en general otorgan estadísticas menos puras que los items raros.
-Item Único
+
 
 
 * Sockets y Links (Huecos y Enlances).
 
 Los items pueden tener desde un único Socket (hueco) hasta un máximo de seis. 
 
-Con una combinación aleatoria de Links(enlaces). 
-
-Puede ser bastante difícil o costoso encontrar un buen item para el final del juego. 
+Con una combinación aleatoria de Links(enlaces).  
 
 Los items de 6 sockets son los más valiosos, es decir, los items con seis sockets y que los 6 estén enlazados. 
 
 Los sockets y los links del ítem se pueden hacer con el Crafting.
 
 
-- Los Sockets permiten colocar Gemas de Habilidades Activas y de Soporte con un color coincidente al equipo. 
+- Los Sockets (Engarces): permiten colocar Gemas de Habilidades Activas y de Soporte con un color coincidente al equipo. 
 
 Los Sockets individuales se pueden enlazar entre sí, lo que se requiere para que las Gemas de Habilidades de Soporte proporcionen beneficios a cualquier Gema de Habilidad Activa enlazada.
 
+
+* Obtención de objetos:
 
 Cuanto mayor sea el nivel de una zona, mayor será el nivel de items básicos que caen en esa zona. 
 
@@ -165,19 +164,16 @@ La elaboración de un item también se basa en el sistema de Hideout (tu Base).
 
 Los maestros que colocas en tu base te permiten desbloquear mesas de crafteo que modifican ciertos tipos de items con ciertos bonos a cambio de orbs. 
 
-Consulta la página Wiki de dinero y familiarízate con los diversos artículos de artesanía.
-
 
 * Inventario.
 
 El sistema de inventario primario en POE, además del inventario de tu personaje, es el Stash (Baúl). 
 
-Por defecto empiezas con cuatro pestañas.
+Por defecto empiezas con cuatro pestañas en él.
 
 Los items del stash están separados por Liga, lo que significa que un personaje de la liga Stándar no puede acceder al stash de la liga Hardcore, y así respectivamente.
 
 Ten en cuenta que cuando una liga finaliza, tus pestañas del stash de esa liga se van a fusionar con el stash de la liga Standard y van a ser pestañas temporales hasta que acomodes todas tus cosas.
-
 
 
 * Economía.
@@ -193,6 +189,8 @@ Levelear en POE es simple, incluso más de lo que solía ser.
 
 Ahora que las diversas dificultades se han eliminado y reemplazado con 10 Actos en lugar de las mismas cuatro en diferentes dificultades. 
 
+Cuando avanzas en el juego se producen ciertos perjuicios.
+
 Al completar el Acto 5: -30% a todas las resistencias.
 
 Al completar el Acto 10: -30% a todas las resistencias (-60% total).
@@ -204,20 +202,23 @@ Por lo tanto, esto hace que levelear sea aún más desafiante.
 
 * Questing (Misiones).
 
-Hacer misiones es muy simple en POE. Al igual que en todos los juegos de rol, los NPC que dan las misiones tienen iconos perceptibles sobre sus cabezas; pero a diferencia de otros juegos, no todas las misiones necesitan ser activadas en un NPC para ser completadas. Simplemente al matar a los monstruos jefes en las diversas áreas suele ser suficiente para completar las misiones. A medida que juegas más POE, aprenderás qué misiones se pueden omitir por completo para acelerar subir de nivel. Ten en cuenta que algunas misiones tienen un impacto directo en tu build, como los Bandit Lords, por lo que estas son una obligación.
+Hacer misiones es muy simple en POE. 
 
-- Vendor Recipes (Recetas de Vendedor).
+Al igual que en todos los juegos de rol, los NPC que dan las misiones tienen iconos perceptibles sobre sus cabezas, pero a diferencia de otros juegos, no todas las misiones necesitan ser activadas en un NPC para ser completadas. 
 
-Las Recetas del vendedor son conjuntos especiales de items que pueden cambiarse a los vendedores en las ciudades de los diversos actos por orbes o actualizaciones de items. Las diversas recetas tienen condiciones específicas y clases de items que utilizan, así que echa un vistazo a la lista aquí.
+Simplemente al matar a los monstruos jefes en las diversas áreas suele ser suficiente para completar las misiones.
 
 
+* Vendor Recipes (Recetas de Vendedor).
 
-- Loot Filters (Filtros de Loot).
+Las Recetas del vendedor son conjuntos especiales de items que pueden cambiarse a los vendedores en las ciudades de los diversos actos por orbes o actualizaciones de items. 
+
+
+* Loot Filters (Filtros de Loot).
 
 Loot Filters son scripts que interactúan con Path of Exile para filtrar los elementos que el jugador no quiere ver cuando son dropeados por los monstruos.
 
 Para aquellos que deseen utilizar un filtro personalizado, les recomiendo visitar FilterBlade. 
-
 
 
 * El Laberinto.
@@ -226,7 +227,11 @@ A medida que avances en los Actos verás aparecer misiones que mencionan los Tri
 
 Se trata de una serie de pequeños laberintos llenos de trampas repartidos en los actos del juego que deben completarse para acceder al Laberinto. 
 
-Pero la verdadera razón para desafiar las aterradoras profundidades del Laberinto es que después de derrotar a Izaro, los jugadores entran en la sala final, la Cámara de Ascendencia. Esta habitación contiene el Altar de la Ascensión, una Fuente Divina y diez cofres del Tesoro de Izaro. Aquí se desbloquea la clase de Ascendencia y otorgará potentes mejoras a tu clase.
+Pero la verdadera razón para desafiar las aterradoras profundidades del Laberinto es que después de derrotar a Izaro, los jugadores entran en la sala final, la Cámara de Ascendencia. 
+
+Esta habitación contiene el Altar de la Ascensión, una Fuente Divina y diez cofres del Tesoro de Izaro. 
+
+Aquí se desbloquea la clase de Ascendencia y otorgará potentes mejoras a tu clase.
 
 
 * Comercio.
@@ -260,55 +265,18 @@ Además, el Atlas también tiene zonas "temáticas" específicas que permiten dr
 
 * El Panteon.
 
-Los eventos del acto 4 despertaron a los dioses del mundo de Path of Exile, y ahora tienes la oportunidad de luchar contra ellos para desbloquear una pequeña porción de su poder. Hay cuatro dioses principales y siete dioses menores, y podrás equipar un poder de cada tipo de deidad, cambiándolos gratis en cualquier pueblo al hablar con Sin.
+El Panteón es un sistema de poderes divinos que los jugadores pueden activar por sí mismos. 
 
-Los dioses han regresado a Wraeclast. Y el sistema Pantheon es cómo vas a derrotarlos y robarles su poder.
+Estos poderes otorgan bonificaciones defensivas y están disponibles cuando los jugadores derrotan a ciertos dioses en la segunda parte de la trama.
 
+Un jugador solo puede tener una potencia mayor y una menor activadas a la vez. 
 
-El Panteón es un sistema de poderes divinos que los jugadores pueden activar por sí mismos. Estos poderes otorgan bonificaciones defensivas y están disponibles cuando los jugadores derrotan a ciertos dioses en la segunda parte de la trama.
-
-Encontrarás tu primer vistazo del sistema Pantheon en el Acto 5 cuando aparezca Sin. Él te presentará el sistema y actuará como tu guía principal para la segunda parte del juego.
-
-Hay doce dioses que otorgan un poder cada uno; cuatro dioses principales y ocho dioses menores. Un jugador solo puede tener una potencia mayor y una menor activadas a la vez. Los bonos se pueden cambiar sin costo adicional, siempre que el jugador esté en una ciudad y hable con Sin.
-
-Activa los bonos que mejor funcionen para tu build. En general, buscarás aumentos de reducción de daños en el Panteón, pero también hay efectos que te hacen inmune a ciertos estados. La compleja mecánica de las peleas de jefes de Panteón también te ayudará a prepararte para los jefes de mapa del juego final.
-
-Algunos tips para empezar a jugar Path of exile.
-
-FUENTE
-Publicadas por alucblog a la/s 07:04 Enviar esto por correo electrónicoBlogThis!Compartir en TwitterCompartir en FacebookCompartir en Pinterest
-Etiquetas: 2018, guia para principiantes path of exile, path of exile guia para nuevos jugadores, poe, poe trade, poelab
-4 comentarios:
-
-    rsgoldfastcom26 de julio de 2018, 01:45
-
-    OSRS gold
-    Responder
-    PooLaKiTo!21 de septiembre de 2020, 22:46
-
-    xd
-    Responder
-    Diego Barrientos2 de febrero de 2021, 21:18
-
-    Me revolvió la cabeza xD
-    Responder
-    Tom12 de noviembre de 2021, 00:14
-
-    In order to attract a large number of players to buy, MMOWTS will often offer preferential activities, sometimes the sale price of those things is very cheap. If you need to buy Diablo 2 Resurrected Runes, going to MMOWTS is a very good choice.
-    Responder
-
-Entrada más reciente Entrada antigua Página Principal
-Suscribirse a: Comentarios de la entrada (Atom)
-Lo Mejor de Planeta 2052
-
-    8 recetas esenciales en Path of Exile
-    Path of Exile 3.0 - Guía para principiantes
-    Lista de herramientas y websites para Path of Exile
-    Lineage 2: Revolution - 10 clases recomendadas para empezar a jugar
-    Path of Exile - Lista de respuestas a preguntas comunes, consejos, tips y trucos
+Los bonos se pueden cambiar sin costo adicional, siempre que el jugador esté en una ciudad y hable con Sin (Pecado).
 
 
-Mira esto
-Epic Games: "El Playstation 5 es una obra maestra"
-	
-Tema Sencillo. Con tecnología de Blogger.
+
+* Toda la esta información la he obtenido de esta fuente:
+http://planeta2052.blogspot.com/2017/12/path-of-exile-30-guia-para-principiantes.html
+
+
+MUCHAS GRACIAS.
