@@ -206,64 +206,64 @@ Por lo tanto, esto hace que levelear sea aún más desafiante.
 
 Hacer misiones es muy simple en POE. Al igual que en todos los juegos de rol, los NPC que dan las misiones tienen iconos perceptibles sobre sus cabezas; pero a diferencia de otros juegos, no todas las misiones necesitan ser activadas en un NPC para ser completadas. Simplemente al matar a los monstruos jefes en las diversas áreas suele ser suficiente para completar las misiones. A medida que juegas más POE, aprenderás qué misiones se pueden omitir por completo para acelerar subir de nivel. Ten en cuenta que algunas misiones tienen un impacto directo en tu build, como los Bandit Lords, por lo que estas son una obligación.
 
-Vendor Recipes (Recetas de Vendedor)
+- Vendor Recipes (Recetas de Vendedor).
+
 Las Recetas del vendedor son conjuntos especiales de items que pueden cambiarse a los vendedores en las ciudades de los diversos actos por orbes o actualizaciones de items. Las diversas recetas tienen condiciones específicas y clases de items que utilizan, así que echa un vistazo a la lista aquí.
 
-Esta guía te puede interesar: 8 recetas esenciales en Path of Exile
 
-Loot Filters (Filtros de Loot)
-Loot Filters son scripts que interactúan con Path of Exile para filtrar los elementos que el jugador no quiere ver cuando son dropeados por los monstruos. Sin los filtros, muchos jugadores luchan para diferenciar entre los items valiosos que caen al matar enemigos, especialmente cuando una lluvia de objetos cae por todo el suelo después de una pelea contra jefes. Los filtros ayudan a reducir la cantidad de artículos sin valor o de bajo nivel que se ven en el piso a medida que el jugador aumenta su nivel.
-Ejemplo de drops sin filtro (izquierda) y con filtro (derecha)
 
-Es recomendable que los nuevos jugadores instalen un filtro para diferenciar los items que tienen valor. La mayoría de los filtros de Loot se pueden encontrar en los foros aquí. Una buena guía para instalar uno se puede encontrar aquí.
+- Loot Filters (Filtros de Loot).
 
-Para aquellos que deseen utilizar un filtro personalizado, les recomiendo visitar FilterBlade. Esta herramienta en línea utiliza el popular filtro de NeverSink como base y le permite personalizar completamente cada regla individual dentro del filtro a tu gusto. Permite guardar varios filtros e incluso tiene un simulador de Loot para probar tus cambios. Y, la mejor parte, es completamente gratis.
+Loot Filters son scripts que interactúan con Path of Exile para filtrar los elementos que el jugador no quiere ver cuando son dropeados por los monstruos.
 
-El Laberinto
-A medida que avances en los Actos verás aparecer misiones que mencionan los Trials of Ascendancy. Se trata de una serie de pequeños laberintos llenos de trampas repartidos en los actos del juego que deben completarse para acceder al Laberinto. En 3.0, el acceso al Laberinto ha sido rediseñado. Una vez desbloqueado, se puede acceder a cada Laberinto desde la Aspirants’ Plaza (Plaza de los Aspirantes) que se encuentra en el acto 3 y acto 8. Cada uno de los cuatro laberintos lleva el nombre de las viejas dificultades: el laberinto normal, el laberinto Cruel, el laberinto Merciless y el Laberinto Final. Los laberintos Cruel y Merciless ahora requieren la finalización de tres Trials of Ascendancy así como los laberintos anteriores. El acceso al Laberinto Final ahora requiere la finalización de los tres laberintos anteriores. El laberinto en sí es una serie inmensamente desafiante de laberintos al azar que, si logras completar, lo que incluye matar al boss Izaro, recibirás la bendición de un poderoso encantamiento y una montaña de botín.
+Para aquellos que deseen utilizar un filtro personalizado, les recomiendo visitar FilterBlade. 
+
+
+
+* El Laberinto.
+
+A medida que avances en los Actos verás aparecer misiones que mencionan los Trials of Ascendancy. 
+
+Se trata de una serie de pequeños laberintos llenos de trampas repartidos en los actos del juego que deben completarse para acceder al Laberinto. 
 
 Pero la verdadera razón para desafiar las aterradoras profundidades del Laberinto es que después de derrotar a Izaro, los jugadores entran en la sala final, la Cámara de Ascendencia. Esta habitación contiene el Altar de la Ascensión, una Fuente Divina y diez cofres del Tesoro de Izaro. Aquí se desbloquea la clase de Ascendencia y otorgará potentes mejoras a tu clase.
 
-Además, cada vez que el jugador completa el Laberinto, puede usar la Fuente divina para imbuir una pieza de equipo con un encantamiento.
-Pelea vs Izaro
 
-La recompensa final proviene de las Llaves del Tesoro que Izaro, y otros bosses y lugares en el laberinto, tiran. La regla básica es que durante las luchas contra Izaro, este tendrá varios buffs  que deben ser desactivados, generalmente tocando una serie de nodos o matando ayudantes. Si dejas intactos estos buffs hasta la tercera y última vez que peleas contra Izaro, él tirara varias Llaves.
+* Comercio.
 
-No te confundas, el laberinto no es fácil. Las trampas, los monstruos y los cuartos son un desafío incluso para jugadores experimentados. Y si mueres dentro, debes comenzar de nuevo desde el principio. Y tampoco pienses que puedes memorizar el diseño, porque se reinicia cada 24 horas. Afortunadamente, existe una herramienta en línea que se actualizará constantemente con el mapa de cada nuevo laboratorio. Aprenderás a amar POELab.
+El comercio es un aspecto muy lucrativo en POE.
 
-Comercio
-El comercio es un aspecto muy lucrativo en POE. No te molestes con el trade chat (chat de Comercio) a menos que desees promocionar un artículo raro que quieras vender. E incluso entonces, es mejor simplemente trabajar con un sitio como poe.trade.
+Al principio, usarás principalmente los items que recojas o que craftees hasta que llegues al final de tu build. 
 
-Las herramientas OOG como POETrade funcionan con la API Path of Exile y el sistema Inventory Stash para enumerar automáticamente los artículos en las pestañas públicas para la venta. Los jugadores obtienen grandes sumas de dinero comprando y vendiendo en POETrade. Pero como jugador nuevo, te centrarás en obtener mejor equipo más que cualquier otra cosa.
+La mayoría de los builds alcanzan un "final" eficiente en el rango de nivel 80-90. Muy pocos jugadores llevan a sus personajes hasta el nivel máximo de 100. 
 
-POENinja es también una herramienta increíble para los elementos de control de precios en el juego. Saca de los mismos conjuntos de datos que POETrade, para que sepas los precios de compra y venta de los items y gráficas de como varían los precios.
 
-Al principio, usarás principalmente los items que recojas o que craftees hasta que llegues al final de tu build. La mayoría de los builds alcanzan un "final" eficiente en el rango de nivel 80-90. Muy pocos jugadores llevan a sus personajes hasta el nivel máximo de 100. Una vez que hayas alcanzado el final de tu build y te sientas cómodo con tu clase y con tu mecánica de habilidades, es hora de prepararte para el contenido final.
+* El Atlas y Mapeo.
 
-Esto generalmente significa comprar items en POETrade con las estadísticas correctas para aumentar tus defensas y ofensas. Afortunadamente, la mayoría de las buenas guías de builds tendrán desgloses de equipo y estadísticas con ejemplos, por lo tanto, utiliza estos ejemplos como una guía para saber qué tipo de equipo comprar. Algunas guías de build también mostrarán los precios de estos artículos.
+"Mapeo" se refiere al verdadero final de POE. Principalmente, esto implica usar el Map Device (Dispositivo de Mapas) en tu hideout (Base) para correr Mapas. 
 
-Ten en cuenta que algunas personas intentarán estafar a nuevos jugadores con intercambios fraudulentos. Esta es la razón principal para utilizar POETrade en vez de el chat de comercio. Además, algunos artículos en POETrade son ridículamente caros. Con el tiempo, aprenderás a detectar una estafa a medida que aprendes el flujo y reflujo del mercado.
+Este dispositivo se puede obtener después de completar suficientes misiones de Zana para invitarla a tu base.
 
-El Atlas y Mapeo
-"Mapeo" se refiere al verdadero final de POE. Principalmente, esto implica usar el Map Device (Dispositivo de Mapas) en tu hideout (Base) para correr Mapas. Este dispositivo se puede obtener después de completar suficientes misiones de Zana para invitarla a tu base. Los mapas comenzarán a caer alrededor del nivel 65-70. La mayoría de los filtros resaltan estos mapas, por lo que se recomienda usar uno. Al colocarlos en un Map Device, los mapas se consumen para crear una instancia aleatoria en la que se puede luchar contra los monstruos. Al igual que los equipos, vienen en rarezas normales, mágicos, raros y únicos y tienen sus propios afijos especiales.
-
-Esta guía te puede ayudar: Path of Exile - Como seleccionar el mapa que quieres correr en tu Atlas
-
-La modificación de los mapas utilizando las orbes es una gran parte del mapeo. Mejorar los mapas modificándolos con Alchemy Orbs u otras orbes de este tipo puede tener enormes beneficios. En términos generales, guarda tus orbes de mayor valor para mapas de niveles superiores más valiosos. Como en los niveles superiores, los mapas de niveles más bajos se vuelven triviales y tienen poco valor. Lo mejor es guardar los mágicos o raros de nivel bajo (Nivel 5 y abajo) para que puedas venderlos luego por unos pocos Orbs of Alchemy.
-
-Y no te sientas mal por morir en los jefes o mecánicas de los mapas. Aprende a mirar los efectos de suelo y AOE y aprende los patrones de los diversos jefes, de esa forma eventualmente te sentirás cómodo luchando contra ellos.
-
-Y ten en cuenta que las recompensas de XP por matar monstruos se escalan con el nivel del personaje. Así que solo obtienes una pequeña cantidad de XP por matar monstruos muy por encima o por debajo de tu nivel.
+Los mapas comenzarán a caer alrededor del nivel 65-70. 
 
 Los jugadores no pueden usar mapas hasta que tengan acceso al Eternal Laboratory (Laboratorio Eterno), que se puede ingresar después de completar las misiones de Lady Dialla en el Acto 3.
-Atlas
 
-El Atlas of Worlds es el sistema de mapas del final de juego en Path of Exile. El Atlas es una serie de mapas vinculados por los que los jugadores pueden progresar después de completar la quest de Zana, Master Cartographer. Además, el Atlas también tiene zonas "temáticas" específicas que permiten drops de items específicos. En el centro del Atlas, hay cuatro mapas de nivel 16 con jefes especiales "Guardians of the Void" (los Guardianes del Vacío) que otorgan un solo intento de derrotar a Shaper después de derrotarlos.
 
-El Panteon
+- Atlas.
+
+El Atlas of Worlds es el sistema de mapas del final de juego en Path of Exile. 
+
+El Atlas es una serie de mapas vinculados por los que los jugadores pueden progresar después de completar la quest de Zana, Master Cartographer. 
+
+Además, el Atlas también tiene zonas "temáticas" específicas que permiten drops de items específicos. 
+
+
+* El Panteon.
+
 Los eventos del acto 4 despertaron a los dioses del mundo de Path of Exile, y ahora tienes la oportunidad de luchar contra ellos para desbloquear una pequeña porción de su poder. Hay cuatro dioses principales y siete dioses menores, y podrás equipar un poder de cada tipo de deidad, cambiándolos gratis en cualquier pueblo al hablar con Sin.
 
 Los dioses han regresado a Wraeclast. Y el sistema Pantheon es cómo vas a derrotarlos y robarles su poder.
+
 
 El Panteón es un sistema de poderes divinos que los jugadores pueden activar por sí mismos. Estos poderes otorgan bonificaciones defensivas y están disponibles cuando los jugadores derrotan a ciertos dioses en la segunda parte de la trama.
 
