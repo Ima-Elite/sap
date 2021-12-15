@@ -1,7 +1,8 @@
 
-Buenas a todos, os traigo una guia basica para los recien iniciados en el fabuloso juego de Path of Exile, POE.
 
-Estos son los aspectos basicos de juego. El juego es mucho más complejo pero para empezar esta guia creo que os servirá. 
+Buenas a todos, os traigo una guía básica para los recién iniciados en el fabuloso juego de Path of Exile, POE.
+
+Estos son los aspectos básicos de juego. El juego es mucho más complejo, pero para empezar esta guía creo que os servirá. 
 
 Ahí va.
 
@@ -71,14 +72,14 @@ Debes enfocarte en encontrar builds que pienses que son divertidos de jugar. Al 
 
 Los Buils se centran en tres áreas principales. Buffs Ofensivos, Buffs defensivos y Core Skills (Habilidades Principales).
 
-Los Buffs ofensivos necesitarán trabajar en en conjunto con la Habilidad Principal de tu build. 
+Los Buffs ofensivos necesitarán trabajar en conjunto con la Habilidad Principal de tu build. 
 
 Estas gemas (Habilidades) se insertan en tu propio equipo y se pueden mejorar directamente mediante "Links" ("Enlaces") a Gemas de Habilidades Pasivas.
 
 Una vez más, debes centrarte en las Gemas de Habilidad que son cohesivas con tu elección de build. Por ejemplo, si estás usando una build basada en proyectiles, es posible que desees gemas que aumenten el número y el daño general de estos proyectiles.
 
 
-* Estadisticas de habilidades (Gemas).
+* Estadísticas de habilidades (Gemas).
 
 Recuerda leer a fondo las estadísticas de los ítems y las descripciones de las habilidades de las Gemas y el árbol de habilidades. 
 
@@ -95,7 +96,7 @@ Los items que equipas y sus bonificaciones existen en una estructura por niveles
 
 Todos los monstruos y la mayoría de los items vienen en una de cuatro rarezas diferentes. 
 
-La rareza común es normal (BLANCOS), seguida de magicos (AZULES), raros (AMARILLOS) y únicos (MARRONES). 
+La rareza común es normal (BLANCOS), seguida de mágicos (AZULES), raros (AMARILLOS) y únicos (MARRONES). 
 
 Una mayor rareza significa que las cosas son más valoradas, pero ocurren con menos frecuencia en el juego.
 
@@ -124,7 +125,7 @@ Funcionan igual que los items mágicos, excepto que tienen como máximo seis afi
 Tienen las mismas estadísticas base que un item normal del mismo tipo, pero tienen nombres específicos, ilustraciones únicas y listas de modificadores en lugar de afijos. Si bien las tres rarezas anteriores son estrictamente mejores que la anterior (por ejemplo, los items raros son siempre más poderosos que los items mágicos), este no es el caso con los items únicos. Por lo general, proporcionan modificadores diferentes y particulares (a veces temáticamente agrupados) que no se pueden encontrar en otros items. Por lo tanto, se consideran más definidores de builds, otorgando efectos que se complementan bien con tu Habilidad Principal, pero en general otorgan estadísticas menos puras que los items raros.
 
 
-* Sockets y Links (Huecos y Enlances).
+* Sockets y Links (Huecos y Enlaces).
 
 Los items pueden tener desde un único Socket (hueco) hasta un máximo de seis. 
 
@@ -258,7 +259,7 @@ El Atlas es una serie de mapas vinculados por los que los jugadores pueden progr
 Además, el Atlas también tiene zonas "temáticas" específicas que permiten drops de items específicos. 
 
 
-* El Panteon.
+* El Panteón.
 
 El Panteón es un sistema de poderes divinos que los jugadores pueden activar por sí mismos. 
 
